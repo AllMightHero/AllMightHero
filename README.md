@@ -15,7 +15,7 @@
 ## Colaborador en
 -  🌐 [GataBot](https://github.com/GataNina-Li/GataBot-MD)
  
-## Mis Lemguajes de Programación 
+## Mis Lenguajes de Programación 
 - 👨‍💻 Lenguajes: [Javascript,Python,C++]
 
 ## Estadísticas de GitHub
